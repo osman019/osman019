@@ -76,7 +76,7 @@ I am a passionate programmer with experience in developing web applications and 
 
 ### 📫 ¿How to contact me?
 - Correo: (osmanortizrolon@gmail.com)
-- LinkedIn: (proximamente)
+- LinkedIn: (www.linkedin.com/in/osman-ortiz-rolon-08a142353)
 - Telefono: (3222167943)
 
 ---
