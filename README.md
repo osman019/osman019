@@ -81,6 +81,12 @@ I am a passionate programmer with experience in developing web applications and 
 
 ---
 
+<p align="center">
+  <img  src="https://raw.githubusercontent.com/Elanza-48/Elanza-48/main/resources/img/github-contribution-grid-snake.svg"
+    alt="example" />
+</p>
+
+
 ¡Gracias por visitar mi perfil!😊
 
 ¡Thanks for visiting my profile!😊
